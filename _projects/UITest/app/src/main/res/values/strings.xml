@@ -2,4 +2,97 @@
     <string name="app_name">UITest</string>
     <string name="drawer_open">open</string>
     <string name="drawer_close">close</string>
+    <string name="my_txt">关键词：
+
+CoordinatorLayout:
+
+Coordinator : 协调。
+协调(Coordinate)其他组件, 实现联动的布局。只有最外层是这个布局，一些滚动行为的参数才能使用。
+
+AppBarLayout：
+
+AppBarLayout会将它内部的所有控件组合成一个toolbar，它继承自LinearLayout，布局方向为垂直方向。它可以设置当某个可滚动View的滚动手势发生变化时，其内部的子View如何动作。
+
+CollapsingToolbarLayout：
+
+实现可折叠toolbar的布局。通过设置一些属性实现可折叠的toolbar。
+
+Toolbar：完美代替actionbar的新控件。
+
+NestedScrollView
+
+Nested：嵌套
+NestedScrollVie
+CoordinatorLayout:
+
+Coordinator : 协调。
+协调(Coordinate)其他组件, 实现联动的布局。只有最外层是这个布局，一些滚动行为的参数才能使用。
+
+AppBarLayout：
+
+AppBarLayout会将它内部的所有控件组合成一个toolbar，它继承自LinearLayout，布局方向为垂直方向。它可以设置当某个可滚动View的滚动手势发生变化时，其内部的子View如何动作。
+
+CollapsingToolbarLayout：
+
+实现可折叠toolbar的布局。通过设置一些属性实现可折叠的toolbar。
+
+Toolbar：完美代替actionbar的新控件。
+
+NestedScrollView
+
+Nested：嵌套
+NestedScrollVie
+CoordinatorLayout:
+
+Coordinator : 协调。
+协调(Coordinate)其他组件, 实现联动的布局。只有最外层是这个布局，一些滚动行为的参数才能使用。
+
+AppBarLayout：
+
+AppBarLayout会将它内部的所有控件组合成一个toolbar，它继承自LinearLayout，布局方向为垂直方向。它可以设置当某个可滚动View的滚动手势发生变化时，其内部的子View如何动作。
+
+CollapsingToolbarLayout：
+
+实现可折叠toolbar的布局。通过设置一些属性实现可折叠的toolbar。
+
+Toolbar：完美代替actionbar的新控件。
+
+NestedScrollView
+
+Nested：嵌套
+NestedScrollVie
+CoordinatorLayout:
+
+Coordinator : 协调。
+协调(Coordinate)其他组件, 实现联动的布局。只有最外层是这个布局，一些滚动行为的参数才能使用。
+
+AppBarLayout：
+
+AppBarLayout会将它内部的所有控件组合成一个toolbar，它继承自LinearLayout，布局方向为垂直方向。它可以设置当某个可滚动View的滚动手势发生变化时，其内部的子View如何动作。
+
+CollapsingToolbarLayout：
+
+实现可折叠toolbar的布局。通过设置一些属性实现可折叠的toolbar。
+
+Toolbar：完美代替actionbar的新控件。
+
+NestedScrollView
+
+Nested：嵌套
+NestedScrollView代替了ScrollView。它符合MD设计风格，并且能更好的和其它新控件配合。它自己布局内的子View滚动的时候会自动触发CoordinatorLayout中设置的ToolBar的滑入滑出。
+
+FloatingActionButton
+
+浮动按钮
+
+关键属性：
+
+contentScrim ：
+
+当CollapsingToolbarLayout完全折叠后的背景颜色。
+通常设置为：app:contentScrim=”?attr/colorPrimary”，这样当CollapsingToolbarLayout完全折叠后就会显示主题颜色。
+
+expandedTitleMarginStart ：
+
+布局张开的时候title与左边的距离，如图： 关键词：  CoordinatorLayout:  Coordinator : 协调。  协调(Coordinate)其他组件, 实现联动的布局。只有最外层是这个布局，一些滚动行为的参数才能使用。  AppBarLayout：  AppBarLayout会将它内部的所有控件组合成一个toolbar，它继承自LinearLayout，布局方向为垂直方向。它可以设置当某个可滚动View的滚动手势发生变化时，其内部的子View如何动作。  CollapsingToolbarLayout：  实现可折叠toolbar的布局。通过设置一些属性实现可折叠的toolbar。  Toolbar：完美代替actionbar的新控件。  NestedScrollView  Nested：嵌套  NestedScrollView代替了ScrollView。它符合MD设计风格，并且能更好的和其它新控件配合。它自己布局内的子View滚动的时候会自动触发CoordinatorLayout中设置的ToolBar的滑入滑出。  FloatingActionButton  浮动按钮  关键属性：  contentScrim ：  当CollapsingToolbarLayout完全折叠后的背景颜色。  通常设置为：app:contentScrim=”?attr/colorPrimary”，这样当CollapsingToolbarLayout完全折叠后就会显示主题颜色。  expandedTitleMarginStart ：  布局张开的时候title与左边的距离，如图：</string>
 </resources>

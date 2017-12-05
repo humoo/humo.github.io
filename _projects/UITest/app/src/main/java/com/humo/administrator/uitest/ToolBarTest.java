@@ -46,9 +46,6 @@ public class ToolBarTest extends AppCompatActivity {
     }
 
 
-
-
-
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         getMenuInflater().inflate(R.menu.menu_main, menu);
@@ -57,15 +54,15 @@ public class ToolBarTest extends AppCompatActivity {
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
-        switch (item.getItemId()){
+        switch (item.getItemId()) {
             case R.id.option_1:
-                Toast.makeText(ToolBarTest.this,"option_1",Toast.LENGTH_SHORT).show();
+                Toast.makeText(ToolBarTest.this, "option_1", Toast.LENGTH_SHORT).show();
                 break;
             case R.id.option_2:
-                Toast.makeText(ToolBarTest.this,"option_2",Toast.LENGTH_SHORT).show();
+                Toast.makeText(ToolBarTest.this, "option_2", Toast.LENGTH_SHORT).show();
                 break;
             case R.id.option_3:
-                Toast.makeText(ToolBarTest.this,"option_3",Toast.LENGTH_SHORT).show();
+                Toast.makeText(ToolBarTest.this, "option_3", Toast.LENGTH_SHORT).show();
                 break;
         }
         return true;
